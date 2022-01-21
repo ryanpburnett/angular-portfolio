@@ -1,0 +1,13 @@
+.footer {
+    font-family: 'Arya', sans-serif;
+    size: 20px;
+    bottom: 0%;
+    position: fixed;
+    height: 3em;
+    width: 100%;
+    background-color: mediumseagreen;
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
