@@ -26,39 +26,6 @@
     box-shadow: 2px 2px 3px, -2px -2px 3px;
 }
 
-.heading-text  {
-    color: mediumseagreen;
-    font-size: 40px;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 600;
-    padding-left: 50px;
-}
-
-.body-text, .portfolio-text {
-    font-family: 'Arya', sans-serif;
-    margin-left: 20px;
-    margin-right: 20px;
-}
-
-.body-text {
-    size: 20px;
-    animation: fadeIn ease 1s;
-}
-
-.portfolio-text {
-    size: 15px;
-}
-
-.margin {
-    margin-bottom: 1.2em;
-}
-
-.image  {
-    float: left;
-    margin-right: 20px;
-    margin-left: 20px;
-}
-
 .navItems    {
     justify-content: right;
 }
